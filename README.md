@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @leetakano
-- 👀 I’m interested in web design and development
-- 🌱 I’m currently learning HTML5 and CSS
+- 👋 Hi, I’m Grace!
+- 👀 I’m an aspiring software engineer!
+- 🌱 I’m currently learning CSS and JavaScript
 - 📫 How to reach me https://www.linkedin.com/in/ace-leetakano/
 
 <!---
